@@ -113,21 +113,3 @@ class mySpider(BaseSpider):
         item['Phone'] = phone
 
         return item
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
