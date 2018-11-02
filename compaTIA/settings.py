@@ -10,7 +10,6 @@
 #     http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
 
 BOT_NAME = 'compaTIA'
-
 SPIDER_MODULES = ['compaTIA.spiders']
 NEWSPIDER_MODULE = 'compaTIA.spiders'
 
